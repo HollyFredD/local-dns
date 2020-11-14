@@ -2,6 +2,7 @@
 192.168.0.1	traefik.lan
 192.168.0.1	portainer.lan
 192.168.0.2	nas.lan
+192.168.0.3 adguard.lan
 #192.168.0.4	---disponible--
 192.168.0.5	jeedom.lan
 192.168.0.6	wifi.lan
