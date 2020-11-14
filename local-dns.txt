@@ -1,6 +1,8 @@
-192.168.0.1	nas2.lan
+192.168.0.1	mqtt.lan
+192.168.0.1	traefik.lan
+192.168.0.1	portainer.lan
 192.168.0.2	nas.lan
-192.168.0.4	nextdom.lan
+#192.168.0.4	---disponible--
 192.168.0.5	jeedom.lan
 192.168.0.6	wifi.lan
 192.168.0.7	wifi2.lan
@@ -22,7 +24,6 @@
 192.168.0.131	camentree.lan
 192.168.0.132	cambbq.lan
 192.168.0.133	recalbox.lan
-192.168.0.135	switchado.lan
 192.168.0.136	dx80.lan
 192.168.0.138	tv.lan
 192.168.0.139	oneplus.lan
