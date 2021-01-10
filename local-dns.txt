@@ -6,7 +6,6 @@
 192.168.0.1	docker.lan
 192.168.0.2	nas.lan
 192.168.0.3	adguard.lan
-#192.168.0.4	---disponible--
 192.168.0.5	jeedom.lan
 192.168.0.6	wifi.lan
 192.168.0.7	wifi2.lan
@@ -21,7 +20,6 @@
 192.168.0.102	hp.lan
 192.168.0.104	doorbird.lan
 192.168.0.106	frigo.lan
-#192.168.0.107	---libre--
 192.168.0.108	yamtv.lan
 192.168.0.118	aspirateur.lan
 192.168.0.119	gtwetg.lan
