@@ -5,6 +5,7 @@
 192.168.0.1 portainer.lan
 192.168.0.1 docker.lan
 192.168.0.2 nas.lan
+192.168.0.3 raspi2.lan
 192.168.0.5 jeedom.lan
 192.168.0.6 wifi.lan
 192.168.0.7 wifi2.lan
@@ -42,5 +43,4 @@
 192.168.0.160 sonoffb07.lan
 192.168.0.161 sonoffsv03.lan
 192.168.0.162 sonoffsv04.lan
-192.168.0.163 raspi2.lan
 192.168.0.254 gateway.lan
