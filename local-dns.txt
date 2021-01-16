@@ -15,7 +15,6 @@
 192.168.0.11 nuc.lan
 192.168.0.13 pihole.lan
 192.168.0.14 pihole2.lan
-192.168.0.17 pbs.lan
 192.168.0.101 shield.lan
 192.168.0.102 hp.lan
 192.168.0.104 doorbird.lan
