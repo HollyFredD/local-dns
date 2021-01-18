@@ -1,5 +1,6 @@
 # local-dns
 Local DNS list pulled by PiHole1 (NUC) and PiHole2 (NAS) based on a cron task. (every hour)
+target = /etc/pihole/custom.txt
 
 # uptimerobot
 IPs used by the site UpTimeRobot to health check services. 
