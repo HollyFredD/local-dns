@@ -5,7 +5,7 @@ Local DNS list pulled by PiHole1 (NUC) and PiHole2 (NAS) based on a cron task. (
 IPs used by the site UpTimeRobot to health check services. 
 List added to CloudFlare in the Firewall section to allow regular check despite the geoIP filtering
 
-# Cisco VPN
+# cisco-vpn
 IPs of Cisco VPN 
 - San Jose
 - RTP
