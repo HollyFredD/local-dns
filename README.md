@@ -1,5 +1,5 @@
 # local-dns
-Local DNS list pulled by PiHole1 (NUC) and PiHole2 (NAS) based on a cron task. (every hour)
+Local DNS list pulled by PiHole1 (NUC) and PiHole2 (NAS) based on a cron task. (every hour).
 target = /etc/pihole/custom.txt
 
 # uptimerobot
