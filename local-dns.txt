@@ -11,7 +11,7 @@
 192.168.0.7 wifi2.lan
 192.168.0.8 switch.lan
 192.168.0.9 pcgaming.lan
-192.168.0.10 switchfred.lan
+192.168.0.10 hass.lan
 192.168.0.11 nuc.lan
 192.168.0.11 proxmox.lan
 192.168.0.13 pihole.lan
