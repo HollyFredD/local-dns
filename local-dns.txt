@@ -31,7 +31,6 @@
 192.168.0.134 cam-salon.lan
 192.168.0.135 cam-cuisine.lan
 192.168.0.136 cam-bbq.lan
-192.168.0.138 tv.lan
 192.168.0.139 oneplus.lan
 192.168.0.144 ghomefred.lan
 192.168.0.145 ghomececile.lan
