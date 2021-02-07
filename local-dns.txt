@@ -25,7 +25,6 @@
 192.168.0.118 aspirateur.lan
 192.168.0.119 gtwetg.lan
 192.168.0.128 gtwrdc.lan
-192.168.0.131 camentree.lan
 192.168.0.132 cam-entree.lan
 192.168.0.133 recalbox.lan
 192.168.0.134 cam-salon.lan
