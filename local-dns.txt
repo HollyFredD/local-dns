@@ -42,7 +42,7 @@
 192.168.0.147 p10.lan
 192.168.0.151 sonoff_basic_multiprise-verres.lan
 192.168.0.152 sonoffsv01.lan
-192.168.0.153 sonoffsv02.lan
+192.168.0.153 sonoff_sv_chargeur-tablette.lan
 192.168.0.155 sonoff_basic_multiprise-fred.lan
 192.168.0.156 raspi1.lan
 192.168.0.157 sonoffb04.lan
