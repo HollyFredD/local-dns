@@ -52,5 +52,5 @@
 192.168.0.160 sonoffb07.lan
 192.168.0.161 sonoffsv03.lan
 192.168.0.162 sonoff_sv_alimentation-hyperion.lan
-192.168.0.170 wled-tvsalon.lan
+192.168.0.172 wled-tvsalon.lan
 192.168.0.254 gateway.lan
