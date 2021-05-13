@@ -18,6 +18,9 @@
 192.168.0.13 pihole.lan
 192.168.0.14 pihole2.lan
 192.168.0.17 hasslab.lan
+192.168.0.18 switch-bureaufred.lan
+192.168.0.19 switch-salon.lan
+192.168.0.20 hyperion.lan
 192.168.0.101 shield.lan
 192.168.0.102 hp.lan
 192.168.0.104 doorbird.lan
@@ -26,7 +29,6 @@
 192.168.0.108 yamtv.lan
 192.168.0.109 sonoffs55-terrasse.lan
 192.168.0.110 sonoffs55-bbq.lan
-192.168.0.112 hyperion.lan
 192.168.0.113 dremel.lan
 192.168.0.118 aspirateur.lan
 192.168.0.119 gtwetg.lan
