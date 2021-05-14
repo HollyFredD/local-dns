@@ -30,6 +30,8 @@
 192.168.0.109 sonoffs55-terrasse.lan
 192.168.0.110 sonoffs55-bbq.lan
 192.168.0.113 dremel.lan
+192.168.0.115 cam-allee.lan
+192.168.0.116 cam-jardin.lan
 192.168.0.118 aspirateur.lan
 192.168.0.119 gtwetg.lan
 192.168.0.128 gtwrdc.lan
